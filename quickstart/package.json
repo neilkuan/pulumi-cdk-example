@@ -1,0 +1,13 @@
+{
+    "name": "quickstart",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@aws-cdk/aws-apprunner-alpha": "^2.23.0-alpha.0",
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/awsx": "^0.40.0",
+        "@pulumi/cdk": "^0.2.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
